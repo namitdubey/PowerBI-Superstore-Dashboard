@@ -9,7 +9,7 @@
 
 ## Dashboard:
 
-![Superstore](https://user-images.githubusercontent.com/128350743/236688277-46f50d00-9af3-4402-9725-5294632d884b.PNG)
+![Superstore](https://user-images.githubusercontent.com/128350743/237000925-5a74bac7-4176-4007-be4b-05617a94d11e.PNG)
 
 
 ### Superstore Analysis Dashboard:
